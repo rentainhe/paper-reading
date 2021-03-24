@@ -13,3 +13,10 @@
 |                            paper                             | description                                                  |                     good notes shareing                      | year      |                           github                            |
 | :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------------------------------------------------: | --------- | :---------------------------------------------------------: |
 | [__End-to-End Object Detection with Transformers__](https://arxiv.org/abs/2005.12872) | __1.remove hand-designed components like NMS and Anchors  2. Use Transformer in detection__ |[DETR](https://xmuxg.xmu.edu.cn/xmu/app/214) <br> [匈牙利算法](https://zhuanlan.zhihu.com/p/96229700)| ECCV 2020| [github](https://github.com/facebookresearch/detr) |
+
+### 3. Translation
+|                            paper                             | description                                                  |                     good notes shareing                      | year      |                           github                            |
+| :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------------------------------------------------: | --------- | :---------------------------------------------------------: |
+| [__Self-Attention with Relative Position Representations__](https://arxiv.org/abs/1803.02155) | __use relative position embedding instead of absolute poesition embedding__ |[Transformer中加入相对位置信息](https://www.cnblogs.com/d0main/p/10453903.html)| NAACL 2018| ... |
+
+
