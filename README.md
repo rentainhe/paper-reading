@@ -7,6 +7,7 @@
 | [__EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks__](https://arxiv.org/abs/1905.11946) | __Balance three dimensions of ConvNets, e.g.,  depth, width and resolution__ |                             ...                              | 2019      | [github](https://github.com/lukemelas/EfficientNet-PyTorch) |
 | [__MnasNet: Platform-Aware Neural Architecture Search for Mobile__](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tan_MnasNet_Platform-Aware_Neural_Architecture_Search_for_Mobile_CVPR_2019_paper.pdf) | 针对移动端网络设计的Nas方法，设计出表现好，效率高的Net   | [__MNasNet论文笔记__](https://zhuanlan.zhihu.com/p/103802311) | CVPR 2019 |                                                             |
 | [__Coordinate Attention for Efficient Mobile Network Design__](https://arxiv.org/abs/2103.02907) | 考虑channel attention的同时融入position attention            |                                                              | CVPR 2021 |  [github](https://github.com/Andrew-Qibin/CoordAttention)   |
+| [__MobileNetV2: Inverted Residuals and Linear Bottlenecks__](https://arxiv.org/abs/1801.04381) | 重新思考了ReLU带来的数据流失影响，并重新设计了纺锤型的bottleneck模块            |           [__ResNet的本质思考__](https://zhuanlan.zhihu.com/p/60668529)   | Arxiv 2018 |  [github](https://github.com/tonylins/pytorch-mobilenet-v2)   |
 
 
 ### 2. Object Detection
