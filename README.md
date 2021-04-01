@@ -30,6 +30,7 @@
 ### 5. Classic Network and Method
 |paper|description|good notes shareing| year | github |
 | :---: | --- | :---: | --- | :---: |
-
+| [__Learning Deep Features for Discriminative Localization__](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Learning_Deep_Features_CVPR_2016_paper.html) | __CAM: 关于CNN的可视化研究，取特征图加权和来可视化feature map，可视化解释CNN重点关注的区域__|[CAM和Grad-CAM篇](https://bindog.github.io/blog/2018/02/10/model-explanation/)|CVPR 2016| ... |
+| [__Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization__](https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html) | __Grad-CAM: 进一步改进了CAM__| ... |ICCV 2017| ... |
 
 
