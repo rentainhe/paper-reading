@@ -27,4 +27,9 @@
 | :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------------------------------------------------: | --------- | :---------------------------------------------------------: |
 | [__Searching for Activation Functions__](https://arxiv.org/abs/1710.05941) | __Swish Activation Function__ |[searching for activation functions](https://medium.com/@chia.sheng.chen/6-searching-for-activation-functions-14a3f89b5351)| Arxiv 2017| ... |
 
+### 5. Classic Network and Method
+|paper|description|good notes shareing| year | github |
+| :---: | --- | :---: | --- | :---: |
+
+
 
