@@ -27,9 +27,13 @@
 | :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------------------------------------------------: | --------- | :---------------------------------------------------------: |
 | [__Searching for Activation Functions__](https://arxiv.org/abs/1710.05941) | __Swish Activation Function__ |[searching for activation functions](https://medium.com/@chia.sheng.chen/6-searching-for-activation-functions-14a3f89b5351)| Arxiv 2017 | ... |
 | [__How much Position Information Do Convolutional Neural Networks Encode?__](https://openreview.net/forum?id=rJeB36NKvB) | __探究CNN是如何进行编码位置信息的, 结论发现CNN中的padding对于位置信息编码有重大作用__ |[图片中的绝对位置信息，CNN能搞定吗？](https://zhuanlan.zhihu.com/p/114713444)| ICLR 2020 | ... |
+
+### 5. NLP
+|                            paper                             | description                                                  |                     good notes shareing                      | year      |                           github                            |
+| :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------------------------------------------------: | --------- | :---------------------------------------------------------: |
 | [__Pay Less Attention With Light-Weight And Dynamic Convolutions__](https://openreview.net/pdf?id=SkVhlh09tX)|__使用动态卷积+Depth-wise卷积+weight-sharing的形式来近似Transformer中的Attention的操作，并且复杂度在线性时间内__|[__Pay less attention with light-weight &dynamic CNN__](https://zhuanlan.zhihu.com/p/60482693)| ICLR 2019 | ... |
 
-### 5. Classic Network and Method
+### 6. Classic Network and Method
 |paper|description|good notes shareing| year | github |
 | :---: | --- | :---: | --- | :---: |
 | [__Learning Deep Features for Discriminative Localization__](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Learning_Deep_Features_CVPR_2016_paper.html) | __CAM: 关于CNN的可视化研究，取特征图加权和来可视化feature map，可视化解释CNN重点关注的区域__|[CAM和Grad-CAM篇](https://bindog.github.io/blog/2018/02/10/model-explanation/)|CVPR 2016| ... |
