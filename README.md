@@ -11,6 +11,7 @@
 | [__RexNet: Dinimishing Representational Bottleneck on Convolutional Neural Network__](https://arxiv.org/abs/2007.00992) | __通过矩阵秩的角度分析模型的表达瓶颈，重新思考了模型结构设计，并达到了超越EfficientNet的分类性能结果__            |           ...   | CVPR 2021 |  [github](https://github.com/clovaai/rexnet)   |
 | [__Stand-Alone Self-Attention in Vision Models__](https://arxiv.org/abs/1906.05909) | __尝试使用attention替换掉卷积操作，设计了full-attention的网络结构，是attention完全替换卷积的第一次尝试__            |           ...   | NIPS 2019 |  [github](https://github.com/leaderj1001/Stand-Alone-Self-Attention)   |
 | [__Diverse Branch Block: Building a Convolution as an Inception-like Unit__](https://arxiv.org/abs/2103.13425) | __推广了ACNet, 利用重参数化的思想将inception unit融合到一个单独的卷积中，在训练和推理使用了不同分支，达到了推理无损提升性能的效果，提出了linear transform都具有一定的普适性__ | [__DBB解读__](https://zhuanlan.zhihu.com/p/360939086) | CVPR 2021 | [github](https://github.com/DingXiaoH/DiverseBranchBlock) |
+| [__CondenseNet: An Efficient DenseNet using Learned Group Convolutions__](https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_CondenseNet_An_Efficient_CVPR_2018_paper.pdf)| __使用了动态可学习的稀疏连接，分阶段训练DenseNet，并且进行了多stage的Dense连接，在轻量化网络里表现很好__ | [__CondenseNet详解__](https://zhuanlan.zhihu.com/p/52011716) | CVPR 2018 | [github](https://github.com/ShichenLiu/CondenseNet)
 
 
 ### 2. Object Detection
